@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Reto 0
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+En este primer reto, creamos una empresa ficticia de desarrollo de aplicaciones web, a la cual tuvimos que darle un nombre y un logo. Su finalidad era, hacer un equipo solido y consolidado para los proyectos venideros. Para ello, tuvimos que repartir los roles de equipo y su trabajo a desempeñar. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Para poder coordinarnos bien en el equipo tuvimos que crear un repositorio en GitHub donde hicimos un fork desde nuestras cuentas de GitHub. Para mas informacion acude a este enlace [Repositorio de RajeCorp](https://github.com/rajecorp) en GitHub.

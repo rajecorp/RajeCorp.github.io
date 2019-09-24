@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/rajecorp/RajeCorp.github.io/master/ima
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:rajecorp@gmail.com
+  email: rajecorp@gmail.com
   facebook:
   flickr:
   github: rajecorp/RajeCorp.github.io
@@ -27,7 +27,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: AllBrauChoco
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
