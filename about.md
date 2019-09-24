@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Sobre Esta Empresa
 permalink: /about/
 ---
 
-Some information about you!
+Somos una empresa desarrolladora de Vitoria, formada por cuatro estudiantes de 2º del ciclo de desarrollo de aplicaciones web. 
 
-### More Information
+### Mas información
 
-A place to include any other types of information that you'd like to include about yourself.
+Los integrantes del equipo somos:
+    -Eric Muñoz [https://github.com/EricMunozFernandez](https://github.com/EricMunozFernandez)
+    -Julen Ortiz de Zarate[https://github.com/JulenOZegibide ](https://github.com/JulenOZegibide )
+    -Raul Pedraza[https://github.com/RaulPedraza ](https://github.com/RaulPedraza )
+    -Arkaitz Galisteo[https://github.com/SrArkaitz ](https://github.com/SrArkaitz )
 
-### Contact me
+### Contacta con nosotros
 
-[email@domain.com](mailto:email@domain.com)
+[rajecorp@gmail.com](mailto:rajecorp@gmail.com)
