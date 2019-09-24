@@ -9,8 +9,11 @@ Somos una empresa desarrolladora de Vitoria, formada por cuatro estudiantes de 2
 ### Mas información
 
 #### Los integrantes del equipo somos:   
-   </br>    
-   2.Eric Muñoz [https://github.com/EricMunozFernandez](https://github.com/EricMunozFernandez)        </br>                                                                                                                                             3.Julen Ortiz de Zarate [https://github.com/JulenOZegibide ](https://github.com/JulenOZegibide )          </br>                                                                                                                                         4.Raul Pedraza [https://github.com/RaulPedraza ](https://github.com/RaulPedraza )                                  </br>                                                                                                                                    5.Arkaitz Galisteo [https://github.com/SrArkaitz ](https://github.com/SrArkaitz )
+
+##### Eric Muñoz [https://github.com/EricMunozFernandez](https://github.com/EricMunozFernandez)                                                                                                                                            
+##### Julen Ortiz de Zarate [https://github.com/JulenOZegibide ](https://github.com/JulenOZegibide )                                                                                                                                               
+##### Raul Pedraza [https://github.com/RaulPedraza ](https://github.com/RaulPedraza )                                                                                                                                                                   
+##### Arkaitz Galisteo [https://github.com/SrArkaitz ](https://github.com/SrArkaitz )
 
 ### Contacta con nosotros
 
